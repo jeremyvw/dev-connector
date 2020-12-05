@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://jeremyvw:azureus30@devconnector.rziwp.mongodb.net/<dbname>?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://jeremyvw:azureus30@devconnector.rziwp.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
