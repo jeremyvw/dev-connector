@@ -295,7 +295,7 @@ button {
 }
 
 .table th {
-  background: var(--light-color);
+  background: lightgray;
 }
 
 /* Navbar */
